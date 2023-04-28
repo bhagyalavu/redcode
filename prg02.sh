@@ -1,4 +1,5 @@
 #!/bin/bash
+this line is added by me
 echo "you are testing pre and post increment and decrement operator "
 echo "enter a number -value of x: "
 read x #where x is a variable obtained its value from keyboard
